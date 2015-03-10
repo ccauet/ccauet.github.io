@@ -1,0 +1,70 @@
+body {
+	font-family: "Monaco", "Andale Mono", monospace;
+  background-color: white;
+  color: black;
+  font-family: sans-serif;
+  font-size: 10pt;
+  margin-left: 3em;
+}
+
+h1 {
+  font-family: "Monaco", "Andale Mono", monospace;
+  font-size: 20pt;
+  margin-bottom: -20px;
+  padding-bottom: 0;
+}
+
+h4 {
+  font-family: "Monaco", "Andale Mono", monospace;
+  font-size: 12pt;
+	color: #b22222;
+  padding-bottom: 0;
+}
+
+.element {
+	font-size: 11pt;
+  color: #b22222;
+  font-family: "Monaco", "Andale Mono", monospace;
+}
+
+.footer {
+	font-size: 8pt;
+	text-align: right;
+  color: #b22222;
+	margin-right: 3em;
+  font-family: "Monaco", "Andale Mono", monospace;
+}
+
+A:link
+{
+  font-family: "Monaco", "Andale Mono", monospace;
+  color: #000000;
+  font-size: 9pt;
+	text-decoration: none;
+}
+
+A:visited
+{
+	font-family: "Monaco", "Andale Mono", monospace;
+  color: #5F5F5F;
+  font-size: 9pt;
+	text-decoration: none;
+}
+
+A:active
+{
+	font-family: "Monaco", "Andale Mono", monospace;
+  color: #5F5F5F;
+  font-size: 9pt;
+	text-decoration: none;
+}
+
+A:hover
+{
+	font-family: "Monaco", "Andale Mono", monospace;
+  color: #b22222;
+  font-size: 9pt;
+	text-decoration: none;
+}
+
+#pos_right { width:450px; height:200px; position:absolute; top:363px; left:500px; }
