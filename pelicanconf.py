@@ -31,5 +31,8 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
+THEME = '/Users/ccauet/Repositories/pelican-bootstrap3'
+BOOTSTRAP_THEME = 'paper'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
