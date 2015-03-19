@@ -6,5 +6,6 @@ Tags: first, misc
 Slug: My-first-post
 Authors: CC
 Summary: Short version of my first blog post
+Status: draft
 
 This is my **first blog post with pelican**

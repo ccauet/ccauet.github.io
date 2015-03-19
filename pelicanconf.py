@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Christophe Cauet'
 SITENAME = u'Christophe Cauet'
+TAGLINE = u'Hello'
 SITEURL = ''
 
 PATH = 'content'
@@ -29,10 +30,13 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+#DEFAULT_PAGINATION = 10
 
-THEME = '/Users/ccauet/Repositories/pelican-bootstrap3'
-BOOTSTRAP_THEME = 'paper'
+THEME = '/Users/ccauet/Repositories/pelican-droidstrap'
+PROFILE_IMG_URL = 'http://ccauet.github.io/portrait.jpg'
+MENUITEMS = [('Home', '/'), ('About', '/pages/christophe-cauet.html')]
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
