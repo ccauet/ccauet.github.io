@@ -8,7 +8,7 @@ image:
   feature: dortmund.jpg
 ---
 
-|                                       | Contact                                                                   | Mailing address |
+|                                       | Office                                                                    | Mailing address |
 | :--                                   |:--                                                                        | :-- |
 | <i class="fa fa-envelope-square"></i> | [christophe.cauet@tu-dortmund.de](mailto:christophe.cauet@tu-dortmund.de) | Technische Universität Dortmund       |
 | <i class="fa fa-phone"></i>           | +49 231 755 4526                                                          | Fakultät für Physik  |
