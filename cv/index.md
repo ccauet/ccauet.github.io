@@ -31,7 +31,7 @@ LHCb collaboration, R. Aaij _et al._, **Measurement of CP violation in B<sup>0</
 LHCb collaboration, R. Aaij _et al._, **Measurement of the time-dependent CP asymmetries in B<sub>s</sub>→J/ψ K<sub>S</sub>**, submitted to JHEP, [arXiv:1503.07055 [hep-ex]](http://arxiv.org/abs/1503.07055)
 
 **2013** <br/>
-LHCb collaboration, R. Aaij _et al._, **Measurement of the B<sup>0</sup> anti-B<sup>0</sup> oscillation frequency ∆m<sub>d</sub> with the decays B<sup>0</sup>→D<sup>−</sup>π<sup>+</sup> and B0→J/ψ K<sup>∗0</sup>**, [Phys.Lett. **B719** (2013), pp. 318-325](http://dx.doi.org/10.1016/j.physletb.2013.01.019), [arXiv:1210.6750 [hep-ex]](http://arxiv.org/abs/1210.6750)
+LHCb collaboration, R. Aaij _et al._, **Measurement of the B<sup>0</sup> anti-B<sup>0</sup> oscillation frequency ∆m<sub>d</sub> with the decays B<sup>0</sup>→D<sup>−</sup>π<sup>+</sup> and B<sup>0</sup>→J/ψ K<sup>∗0</sup>**, [Phys.Lett. **B719** (2013), pp. 318-325](http://dx.doi.org/10.1016/j.physletb.2013.01.019), [arXiv:1210.6750 [hep-ex]](http://arxiv.org/abs/1210.6750)
 
 
 > ### Talks
