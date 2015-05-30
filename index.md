@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-tags: [about, Christophe, Cauet]
+tags: [about, homepage, Christophe, Cauet]
 comments: false
 share: false
 image:
@@ -12,6 +12,6 @@ I am a physicist living and working in Dortmund, Germany. Currently I pursue a P
 
 My work focuses on the study of CP violation in systems of beauty mesons, in particular [the measurement of the CKM matrix parameter sin(2β)](http://arxiv.org/abs/1503.07089) in the decay of the B<sup>0</sup> meson and it's anti-particle into the common J/ψ K<sub>S</sub> final state. Previously, I was involved in [the measurement of the B<sup>0</sup> oscillation frequency ∆m<sub>d</sub>](http://arxiv.org/abs/1210.6750).
 
-My day to day work consists of programming (mainly in C++ and Python), data analysis i.e. statistics, model building, Monte Carlo simulations, and machine learning, and---of course---meetings with other members of the international LHCb collaboration. I have profound experience in teaching and in the supervision of B.Sc. and M.Sc. students.
+My day to day work consists of programming (mainly C++ and Python), data analysis i.e. statistics, model building, Monte Carlo simulations, and machine learning, and---of course---meeting with other members of the international LHCb collaboration. I have profound experience in teaching and in the supervision of B.Sc. and M.Sc. students.
 
-I do love food, wine, and first of all my charming [wife](http://eva.cauet.de). I'm a curious person with various interests in science, technology, finance, climate change, space flight, and the open source community.
+I do love food, wine, and first of all my charming [wife](http://eva.cauet.de). I'm a curious person with various interests in science, next-generation technology, finance, politics, space flight, and the open source community.

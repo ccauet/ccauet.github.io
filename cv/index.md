@@ -10,10 +10,9 @@ image:
 
 > ### Education
 
-**2010 - 2015**<br/>
-Ph.D. Experimental High Energy Physics, <br/> 
-_TU Dortmund University_, <br/>
-(_not yet finished_)
+**2010 - present**<br/>
+Ph.D. candidate in experimental high energy physics, <br/> 
+_TU Dortmund University_
 
 **2004-2009** <br/>
 Physics diploma <br/>
@@ -22,13 +21,13 @@ Thesis: _Inverse seesaw mechanism in low-scale trinification models_
 
 > ### Publications
 
-Below a digest of works I was involved in. A comprehensive list of publications can be found on my [InspireHEP profile](http://inspirehep.net/author/profile/C.Cauet.2).
+Below a digest of publications I was involved in. A comprehensive list of publications can be found on my [InspireHEP profile](http://inspirehep.net/author/profile/C.Cauet.2).
 
 
 **2015** <br/>
 LHCb collaboration, R. Aaij _et al._, **Measurement of CP violation in B<sup>0</sup>→J/ψ K<sub>S</sub> decays**, submitted to PRL, [arXiv:1503.07089 [hep-ex]](http://arxiv.org/abs/1503.07089)
 
-LHCb collaboration, R. Aaij _et al._, **Measurement of the time-dependent CP asymmetries in B<sub>s</sub>→J/ψ K<sub>S</sub>**, submitted to JHEP, [arXiv:1503.07055 [hep-ex]](http://arxiv.org/abs/1503.07055)
+LHCb collaboration, R. Aaij _et al._, **Measurement of the time-dependent CP asymmetries in B<sub>s</sub>→J/ψ K<sub>S</sub>**, to appear in JHEP, [arXiv:1503.07055 [hep-ex]](http://arxiv.org/abs/1503.07055)
 
 **2013** <br/>
 LHCb collaboration, R. Aaij _et al._, **Measurement of the B<sup>0</sup> anti-B<sup>0</sup> oscillation frequency ∆m<sub>d</sub> with the decays B<sup>0</sup>→D<sup>−</sup>π<sup>+</sup> and B<sup>0</sup>→J/ψ K<sup>∗0</sup>**, [Phys.Lett. **B719** (2013), pp. 318-325](http://dx.doi.org/10.1016/j.physletb.2013.01.019), [arXiv:1210.6750 [hep-ex]](http://arxiv.org/abs/1210.6750)
@@ -36,4 +35,12 @@ LHCb collaboration, R. Aaij _et al._, **Measurement of the B<sup>0</sup> anti-B<
 
 > ### Talks
 
+[Epiphany Conference](http://epiphany.ifj.edu.pl/current/), Krakau, [Flavour tagging and flavour oscillation measurements at LHCb](https://cds.cern.ch/record/1504821?ln=de), January 2013
+
 > ### Posters
+
+109th LHCC Meeting - Open Session, [Optimisation and calibration of the LHCb opposite side flavour tagging](https://cds.cern.ch/record/1433708?ln=de), March 2012
+
+> ### Public Outreach
+
+Local organiser of the 2014 [International Masterclasses -- hands on particle physics](http://www.physicsmasterclasses.org) for high school students at the TU Dortmund University
