@@ -43,4 +43,4 @@ LHCb collaboration, R. Aaij _et al._, **Measurement of the B<sup>0</sup> anti-B<
 
 > ### Public Outreach
 
-Local organiser of the 2014 [International Masterclasses -- hands on particle physics](http://www.physicsmasterclasses.org) for high school students at the TU Dortmund University
+Local organiser of the 2014 [International Masterclasses -- hands on particle physics](http://www.physicsmasterclasses.org) for high school students at TU Dortmund University
