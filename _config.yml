@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Christophe Cauet
+title:            #Christophe Cauet
 locale:           en_US
 url:              #http://ccauet.github.io
 
@@ -27,9 +27,9 @@ kramdown:
 # Site owner
 owner:
   name: Christophe Cauet
-  avatar: floor.jpg
-  bio: "Dortmund, Germany"
-  email: christophe@cauet.de
+  avatar: cc_circle.png
+  bio: "Landau in der Pfalz, Germany"
+  email: kontakt-2016@christophe.cauet.de
   pgpkey: /files/ccauet.pub.asc
   skype: christophe@cauet.de
   disqus-shortname: 
