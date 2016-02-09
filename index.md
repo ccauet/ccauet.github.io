@@ -8,7 +8,7 @@ image:
   feature: blue.jpg
 ---
 
-I am Christophe, a physicist and data scientist from [Dortmund](https://en.wikipedia.org/wiki/Dortmund), Germany. I recently moved to [Landau in der Pfalz](https://en.wikipedia.org/wiki/Landau).
+I am a physicist and data scientist from [Dortmund](https://en.wikipedia.org/wiki/Dortmund), Germany. I recently moved to [Landau in der Pfalz](https://en.wikipedia.org/wiki/Landau).
 
 I love food, wine, and particularly my charming [wife](http://eva.cauet.de). I read [a lot of stuff](http://ivereadthis.tumblr.com) and have a general interest in science, next-gen technologies, finance, and software development.
 
