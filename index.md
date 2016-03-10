@@ -4,11 +4,9 @@ title: About me
 tags: [about, homepage, Christophe, Cauet]
 comments: false
 share: false
-image:
-  feature: blue.jpg
 ---
 
-I am a physicist and data scientist from [Dortmund](https://en.wikipedia.org/wiki/Dortmund), Germany. I recently moved to [Landau in der Pfalz](https://en.wikipedia.org/wiki/Landau).
+I am a physicist and data scientist from [Dortmund](https://en.wikipedia.org/wiki/Dortmund), Germany. I recently moved to [Landau in der Pfalz](https://en.wikipedia.org/wiki/Landau). I co-founded the data science startup [Point 8](https://point-8.de).
 
 I love food, wine, and particularly my charming [wife](http://eva.cauet.de). I read [a lot of stuff](http://ivereadthis.tumblr.com) and have a general interest in science, next-gen technologies, finance, and software development.
 

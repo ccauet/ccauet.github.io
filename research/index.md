@@ -4,8 +4,6 @@ title: Research
 tags: [cv, bio, christophe, cauet]
 comments: false
 share: false
-image:
-  feature: lhcb.jpg
 ---
 
 > ### Focus

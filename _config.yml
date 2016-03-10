@@ -21,13 +21,13 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
 
 # Site owner
 owner:
   name: Christophe Cauet
-  avatar: cc_circle.png
+  avatar: floor.jpg
   bio: "Landau in der Pfalz, Germany"
   email: kontakt-2016@christophe.cauet.de
   pgpkey: /files/ccauet.pub.asc
