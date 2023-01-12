@@ -7,6 +7,4 @@ share: false
 sitemap: false
 ---
 
-> ### Wishlist
-
-- A thing
+- **Pflanzmesser "Hori-Hori"**</br>z.B. [hier](https://www.manufactum.de/japanisches-pflanzmesser-a40059/) oder [hier](https://www.thegardenshop.de/japanisches-pflanzmesser-hori-hori)
